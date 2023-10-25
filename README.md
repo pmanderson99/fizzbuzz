@@ -3,6 +3,7 @@ the challenge is to write a FizzBuzz.java program that outputs numbers from 1 to
 If the number is divisible by 3, the program has to print "Fizz" instead of the number. 
 If it is divisible by 5, it has to print "Buzz". If both (multiples of 3 & 5) apply, it has to print "FizzBuzz".
 
+
 Here's how I solved it:
 
 -I started by building a FizzBuzz class with an empty main() method
@@ -18,6 +19,3 @@ Here's how I solved it:
 -then the next else if tests wheather the current number is a multiple of 5
 
 -else just print the number and stop at 100
-
-
-
